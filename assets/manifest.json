@@ -1,0 +1,14 @@
+{
+  "name": "bikayiweb",
+  "short_name": "bikayiweb",
+  "start_url": "/",
+  "description": "Install the app now!",
+  "background_color": "#fafafa",
+  "theme_color": "#1976d2",
+  "display": "standalone",
+  "icons": [{
+    "src": "https://firebasestorage.googleapis.com/v0/b/bikai-d5ee5/o/images%2F9iNVEjIF1FVwC3fD1fCiJCDh3Q32%2Flogo?alt=media&token=4ca23d95-e91f-413f-a538-0791646b5ba1",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}

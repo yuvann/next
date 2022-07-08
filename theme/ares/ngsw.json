@@ -1,0 +1,149 @@
+{
+  "configVersion": 1,
+  "timestamp": 1647231976485,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/0-es2015.91ccda51f904f845accd.js",
+        "/0-es5.91ccda51f904f845accd.js",
+        "/1-es2015.f08f2b7af42a791b59fc.js",
+        "/1-es5.f08f2b7af42a791b59fc.js",
+        "/10-es2015.d7feeff5c8e8f7901276.js",
+        "/10-es5.d7feeff5c8e8f7901276.js",
+        "/11-es2015.5d0cdc73fbf7c8dba60d.js",
+        "/11-es5.5d0cdc73fbf7c8dba60d.js",
+        "/12-es2015.ca6a06b8d29a401ba3ba.js",
+        "/12-es5.ca6a06b8d29a401ba3ba.js",
+        "/17-es2015.523bc67af7369ce16fd3.js",
+        "/17-es5.523bc67af7369ce16fd3.js",
+        "/18-es2015.f0e66683b4d1d358a600.js",
+        "/18-es5.f0e66683b4d1d358a600.js",
+        "/19-es2015.17913122518145f6efc3.js",
+        "/19-es5.17913122518145f6efc3.js",
+        "/2-es2015.a09f3678e7f3215c4920.js",
+        "/2-es5.a09f3678e7f3215c4920.js",
+        "/20-es2015.ffea0baad7371dcd88b4.js",
+        "/20-es5.ffea0baad7371dcd88b4.js",
+        "/21-es2015.2743dae86372a5c2ee60.js",
+        "/21-es5.2743dae86372a5c2ee60.js",
+        "/22-es2015.e7aa3906c29a2884239c.js",
+        "/22-es5.e7aa3906c29a2884239c.js",
+        "/23-es2015.2a5571895172cd92eb9e.js",
+        "/23-es5.2a5571895172cd92eb9e.js",
+        "/24-es2015.c406693d0e8abbba1cca.js",
+        "/24-es5.c406693d0e8abbba1cca.js",
+        "/5-es2015.641d916382dd908f993a.js",
+        "/5-es5.641d916382dd908f993a.js",
+        "/6-es2015.f4c2144a9297d5ffa049.js",
+        "/6-es5.f4c2144a9297d5ffa049.js",
+        "/7-es2015.d6ea901118e30ddebc47.js",
+        "/7-es5.d6ea901118e30ddebc47.js",
+        "/8-es2015.139abc91c462d370622c.js",
+        "/8-es5.139abc91c462d370622c.js",
+        "/9-es2015.ef7b13b4482d98bd800f.js",
+        "/9-es5.ef7b13b4482d98bd800f.js",
+        "/common-es2015.567c1867d90a337a3cb7.js",
+        "/common-es5.567c1867d90a337a3cb7.js",
+        "/favicon.ico",
+        "/main-es2015.7bf0a0bcb24607d1df7e.js",
+        "/main-es5.7bf0a0bcb24607d1df7e.js",
+        "/polyfills-es2015.3359a068cb7f222b6399.js",
+        "/polyfills-es5.261ee55ab3755ae762b4.js",
+        "/runtime-es2015.7517f0a3016d22ea3a7e.js",
+        "/runtime-es5.7517f0a3016d22ea3a7e.js",
+        "/styles.2a00fe8b4aa43eea70b0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/bikayilogo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0-es2015.91ccda51f904f845accd.js": "6e433d4a5fa62f37762e8066f2c122c926f0c983",
+    "/0-es5.91ccda51f904f845accd.js": "67b7a31074073d182009a32e32ac98824d64c9cf",
+    "/1-es2015.f08f2b7af42a791b59fc.js": "8cdd3fa59fddd7cb76172afbd7e819e04319128a",
+    "/1-es5.f08f2b7af42a791b59fc.js": "396bcff2c317c07c92415bc0325fea5fbf17d845",
+    "/10-es2015.d7feeff5c8e8f7901276.js": "bcbf49d1c4d9851a86810ff9ce803cc691eb64e1",
+    "/10-es5.d7feeff5c8e8f7901276.js": "afe06c69a5874763ae47f012992f26c84aeacd28",
+    "/11-es2015.5d0cdc73fbf7c8dba60d.js": "5eb2085dbc257081f3bccdeb154a44267f6b5438",
+    "/11-es5.5d0cdc73fbf7c8dba60d.js": "dd174172c1746d04d1e2eea1324f69e3a647053c",
+    "/12-es2015.ca6a06b8d29a401ba3ba.js": "f58b54951fb49d1e5d808ce7c5503940d18c122e",
+    "/12-es5.ca6a06b8d29a401ba3ba.js": "4c2a4b5dc8e3023874a1805d667edd45a152d9d5",
+    "/17-es2015.523bc67af7369ce16fd3.js": "726d814ef66f5658ec34861a8cad2d819fff30ba",
+    "/17-es5.523bc67af7369ce16fd3.js": "b18c72bbbbf3b81db84d539891e4359e25232efe",
+    "/18-es2015.f0e66683b4d1d358a600.js": "8b3020aaa5e1793a0d057efc202252cf65b2a1a2",
+    "/18-es5.f0e66683b4d1d358a600.js": "bc6fd9b4035d527a26f06c0b3b5ab0b321c277ca",
+    "/19-es2015.17913122518145f6efc3.js": "dc4a10fd2ce5cd365c7bb825427e376554e371a1",
+    "/19-es5.17913122518145f6efc3.js": "15ff74ab70fde0e404d5f875114ad006af2de4bc",
+    "/2-es2015.a09f3678e7f3215c4920.js": "8429b614e469aab7c1b7fc180376cfe66eb21210",
+    "/2-es5.a09f3678e7f3215c4920.js": "a28e7ba706cef08efe796dd23efc12f29428df09",
+    "/20-es2015.ffea0baad7371dcd88b4.js": "3de62a9e6646ab19aaec1b68c0239fb410f53b6f",
+    "/20-es5.ffea0baad7371dcd88b4.js": "cc6cf2d8b706cf29a496cebebf8640cebad27dfb",
+    "/21-es2015.2743dae86372a5c2ee60.js": "15c29a67aa13ce625530a44c3cf4db55fbb5b134",
+    "/21-es5.2743dae86372a5c2ee60.js": "a56786dda8a415ecefbe8249de0a197618c544dd",
+    "/22-es2015.e7aa3906c29a2884239c.js": "d6960821e3c4cbd09fddd1ab148fd129dee5e470",
+    "/22-es5.e7aa3906c29a2884239c.js": "836b0b1a597920624e26dff5a0997a815b1cf724",
+    "/23-es2015.2a5571895172cd92eb9e.js": "7f22aff2ffd4b068e37dcffdff5e55dcd830ee90",
+    "/23-es5.2a5571895172cd92eb9e.js": "5f4865b2219e0c07bfcde89656c1f65a3a1c7986",
+    "/24-es2015.c406693d0e8abbba1cca.js": "c200a2bb91f7287e40acfa3e1dd062bd3aa80579",
+    "/24-es5.c406693d0e8abbba1cca.js": "81dd759f1639b6aee44695e69759629cde7ef77b",
+    "/5-es2015.641d916382dd908f993a.js": "fd681b17c4ff52a3989422121adbf2faf63a19db",
+    "/5-es5.641d916382dd908f993a.js": "984abd3a1d96f38ca69a50c75ed11f32f1dd8318",
+    "/6-es2015.f4c2144a9297d5ffa049.js": "3b15a7b6c9d03a027d01534feac4b321aa72b403",
+    "/6-es5.f4c2144a9297d5ffa049.js": "350b695c5b147d70b4b2ce7ad5f77213bbf738c2",
+    "/7-es2015.d6ea901118e30ddebc47.js": "31b6c531451387011046fa20096b4891f68a0d09",
+    "/7-es5.d6ea901118e30ddebc47.js": "d3bf7c046ff85ce5d4f17dc5873407a90023a6bd",
+    "/8-es2015.139abc91c462d370622c.js": "1b1633bc2c651d895cdffa0915501cd1b0c55fce",
+    "/8-es5.139abc91c462d370622c.js": "570b195996d23acf2773412e16e1d1e7db4687dc",
+    "/9-es2015.ef7b13b4482d98bd800f.js": "2db29673feeede06fa69f5cc91ace61ffa15a1ee",
+    "/9-es5.ef7b13b4482d98bd800f.js": "7dd75410ee99208541918d7633652c4d175a56ba",
+    "/assets/bikayilogo.png": "d1374cd4bb7b252676664debc25c9676793d72aa",
+    "/common-es2015.567c1867d90a337a3cb7.js": "832aa8f5c038478ac39f094e56eafc6872960baf",
+    "/common-es5.567c1867d90a337a3cb7.js": "97fa48b0619ba2844d888f01b4588dd0c690b267",
+    "/favicon.ico": "eba4d757465bea1fcb68de553c6c3b404ae4bc8e",
+    "/main-es2015.7bf0a0bcb24607d1df7e.js": "6208e15d6e5e1c95c0848d20cf3f7218e8d7d3e0",
+    "/main-es5.7bf0a0bcb24607d1df7e.js": "c2690397e681ebc7440ebf3642b9adac4ff95300",
+    "/polyfills-es2015.3359a068cb7f222b6399.js": "5e9115dc7591ea4ebf7f4ad188280165b9ae714f",
+    "/polyfills-es5.261ee55ab3755ae762b4.js": "408deb3bb8380191464d314333d1cd6580918e77",
+    "/runtime-es2015.7517f0a3016d22ea3a7e.js": "bfdc5bdcaaaec7f10f093927e81b362ec0ff6db7",
+    "/runtime-es5.7517f0a3016d22ea3a7e.js": "0d530c1d0f7c09ed2b34730a8228b1f16955a331",
+    "/styles.2a00fe8b4aa43eea70b0.css": "4088e354c5469c58b466c4c9a1674819b61a4e46"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
